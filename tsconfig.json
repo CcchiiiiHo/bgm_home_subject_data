@@ -1,7 +1,14 @@
 {
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "isolatedModules": true
+  },
+  "include": ["src/**/*.ts"],
   "ts-node": {
-    "compilerOptions": {
-      "module": "CommonJS" 
-    }
+    "esm": true
   }
 }
