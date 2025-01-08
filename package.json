@@ -7,7 +7,7 @@
     "dev": "node index.js"
   },
   "repository": {
-    "type": "git",
+    "start": "git",
     "url": "https://github.com/CcchiiiiHo/bgm_home_subject_data/animeData.json"
   },
   "dependencies": {
