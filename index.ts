@@ -1,9 +1,3 @@
-import axios from 'axios';
-import * as cheerio from 'cheerio';
-import * as fs from 'fs';
-
-// 读取 package.json 中的配置
-
 const url = "https://bgm.tv"
 
 interface Anime {
