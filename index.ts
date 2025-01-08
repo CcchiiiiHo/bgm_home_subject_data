@@ -39,7 +39,7 @@ async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
                 const title = $(item).find('.title a').text().trim();
                 const href = $(item).find('.title a').attr('href') || '';
                 const id = href.match(/subject\/(\d+)/)?.[1] || '';
-                const imageUrl = $(item).find('a').attr('style')?.trim().replace("background-image:url('//lain.bgm.tv/", 'https://lain.bgm.tv').replace("');","") || '';
+                const imageUrl = $(item).find('a').attr('style')?.trim().replace("background-image:url('//lain.bgm.tv", 'https://lain.bgm.tv').replace("');","") || '';
                 const followers = parseInt($(item).find('.inner small.grey').text().replace(/[^0-9]/g, ''), 10);
                 items.push({ id, title, imageUrl, followers });
             });
