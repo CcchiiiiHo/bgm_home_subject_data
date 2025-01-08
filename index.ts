@@ -5,12 +5,12 @@ interface Anime {
     title: string;
     imageUrl: string;
     followers: number;
-}
+};
 
 interface AnimeCategory {
     type: string;
     items: Anime[];
-}
+};
 
 async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
     try {
@@ -47,8 +47,8 @@ async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
     } catch (error) {
         console.error('Error fetching data:', error);
         return [];
-    }
-}
+    };
+};
 
 fetchAnimeData(url).then(animeCategories => {
     fs.writeFileSync('animeData.json', JSON.stringify(animeCategories, null, 2));
