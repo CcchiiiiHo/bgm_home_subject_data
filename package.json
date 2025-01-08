@@ -4,7 +4,7 @@
   "description": "A web scraper for anime information using axios and cheerio",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.ts"
   },
   "repository": {
     "type": "git",
