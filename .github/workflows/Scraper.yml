@@ -33,5 +33,5 @@ jobs:
         git push
         curl https://purge.jsdelivr.net/gh/CcchiiiiHo/bgm_home_subject_data/animeData.json
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
