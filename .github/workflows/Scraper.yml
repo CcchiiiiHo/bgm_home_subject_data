@@ -18,9 +18,11 @@ jobs:
       with:
         node-version: '16'
 
-
+    - name: Install dependencies
+      run: npm install
+      
     - name: Run scraper
-      run: bash run.sh
+      run: npm run start
 
     - name: Commit and push changes
       run: |
