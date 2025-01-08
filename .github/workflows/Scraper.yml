@@ -1,0 +1,37 @@
+name: Daily Anime Scraper
+
+on:
+  schedule:
+    - cron: '00 8 * * *' # 每天 UTC 时间 00:00 运行一次
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run scraper
+      run: npm start
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'CcchiiiiHo'
+        git config --global user.email 'xchiho1ii@gmail.com'
+        git add .
+        git commit -m 'Update anime data'
+        git push
+        curl https://purge.jsdelivr.net/gh/CcchiiiiHo/bgm_home_subject_data/animeData.json
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
