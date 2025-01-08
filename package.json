@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A web scraper for anime information using axios and cheerio",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
     "start": "node index.ts"
   },
