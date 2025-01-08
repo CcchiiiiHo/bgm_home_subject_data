@@ -1,4 +1,4 @@
-const url = "https://bgm.tv"
+const url = "https://bgm.tv";
 
 interface Anime {
     id: string;
