@@ -1,3 +1,7 @@
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import * as fs from 'fs';
+
 const url = "https://bgm.tv";
 
 interface Anime {
