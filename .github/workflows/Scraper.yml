@@ -2,7 +2,7 @@ name: Daily Anime Scraper
 
 on:
   schedule:
-    - cron: '00 8 * * *' # 每天 UTC 时间 00:00 运行一次
+    - cron: '00 16 * * *' # 每天 北京时间 00:00 运行一次
   workflow_dispatch:
 
 jobs:
