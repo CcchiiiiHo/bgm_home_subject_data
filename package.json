@@ -21,4 +21,11 @@
   },
   "author": "",
   "license": "ISC"
+  {
+  "config": {
+    "targetUrl": "https://example.com",
+    "apiHeaders": {
+      "User-Agent": "CcchiiiiHo/bgm_home_subject_data (https://github.com/CcchiiiiHo/bgm_home_subject_data)"
+    }
+  }
 }
