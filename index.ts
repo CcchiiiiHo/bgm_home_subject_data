@@ -3,7 +3,9 @@ import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 
 // 读取 package.json 中的配置
-const url = "https://bgm.tv"
+const packageJson = JSON.parse(fs.readFileSync('package.json', 'utf-8'));
+const url = packageJson.config.targetUrl;
+const apiHeaders = packageJson.config.apiHeaders;
 
 interface ImageUrls {
     small: string;
@@ -25,7 +27,11 @@ interface AnimeCategory {
     items: Anime[];
 }
 
-
+async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
+    try {
+        const { data } = await axios.get(url, {
+            headers: apiHeaders
+        });
 async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
     try {
         const { data } = await axios.get(url);
@@ -41,7 +47,7 @@ async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
                 const href = $(item).find('a').attr('href') || '';
                 const id = href.match(/subject\/(\d+)/)?.[1] || '';
                 const apiUrl = `https://api.bgm.tv/v0/subjects/${id}`;
-                const apiResponse = await axios.get(apiUrl);
+                const apiResponse = await axios.get(apiUrl,apiHeaders);
                 const imageUrl: ImageUrls = apiResponse.data.images;
                 const followers = parseInt($(item).find('.info small.grey').text().replace(/[^0-9]/g, ''), 10);
                 items.push({ id, title, imageUrl, followers });
@@ -52,7 +58,7 @@ async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
                 const href = $(item).find('.title a').attr('href') || '';
                 const id = href.match(/subject\/(\d+)/)?.[1] || '';
                 const apiUrl = `https://api.bgm.tv/v0/subjects/${id}`;
-                const apiResponse = await axios.get(apiUrl);
+                const apiResponse = await axios.get(apiUrl,apiHeaders);
                 const imageUrl: ImageUrls = apiResponse.data.images;
                 const followers = parseInt($(item).find('.inner small.grey').text().replace(/[^0-9]/g, ''), 10);
                 items.push({ id, title, imageUrl, followers });
