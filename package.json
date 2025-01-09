@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "A web scraper for anime information using axios and cheerio",
   "main": "index.ts",
+  "config": {
+    "targetUrl": "https://bgm.tv",
+    "apiUrl": "https://api.bgm.tv/v0/{id}",
+    "apiHeaders": {
+      "User-Agent": "CcchiiiiHo/bgm_home_subject_data (https://github.com/CcchiiiiHo/bgm_home_subject_data)"
+      }
+    },
   "scripts": {
     "start": "ts-node index.ts"
   },
@@ -21,12 +28,4 @@
   },
   "author": "",
   "license": "ISC"
-  {
-  "config": {
-    "targetUrl": "https://bgm.tv",
-    "apiUrl": "https://api.bgm.tv/v0/{id}",
-    "apiHeaders": {
-      "User-Agent": "CcchiiiiHo/bgm_home_subject_data (https://github.com/CcchiiiiHo/bgm_home_subject_data)"
-    },
-  },
-},
+}
