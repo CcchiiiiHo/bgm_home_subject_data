@@ -43,7 +43,7 @@ async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
                 const apiResponse = await axios.get(apiUrl,{
                     headers: {
                         'User-Agent': 'CcchiiiiHo/bgm_home_subject_data (https://github.com/CcchiiiiHo/bgm_home_subject_data)'
-                    });
+                    }});
                 const imageUrl: ImageUrls = apiResponse.data.images;
                 const followers = parseInt($(item).find('.info small.grey').text().replace(/[^0-9]/g, ''), 10);
                 items.push({ id, title, imageUrl, followers });
@@ -57,7 +57,7 @@ async function fetchAnimeData(url: string): Promise<AnimeCategory[]> {
                 const apiResponse = await axios.get(apiUrl,{
                     headers: {
                         'User-Agent': 'CcchiiiiHo/bgm_home_subject_data (https://github.com/CcchiiiiHo/bgm_home_subject_data)'
-                    });
+                    }});
                 const imageUrl: ImageUrls = apiResponse.data.images;
                 const followers = parseInt($(item).find('.inner small.grey').text().replace(/[^0-9]/g, ''), 10);
                 items.push({ id, title, imageUrl, followers });
