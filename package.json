@@ -27,6 +27,6 @@
     "apiUrl": "https://api.bgm.tv/v0/{id}",
     "apiHeaders": {
       "User-Agent": "CcchiiiiHo/bgm_home_subject_data (https://github.com/CcchiiiiHo/bgm_home_subject_data)"
-    }
-  }
-}
+    },
+  },
+},
