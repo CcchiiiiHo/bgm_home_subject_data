@@ -6,43 +6,43 @@
         "id": "454684",
         "title": "BanG Dream! Ave Mujica",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_ZH5tU.jpg",
-        "followers": 11827
+        "followers": 11977
       },
       {
         "id": "486039",
         "title": "全修。",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/40/cc/486039_0S1ar.jpg",
-        "followers": 4088
+        "followers": 4185
       },
       {
         "id": "498934",
         "title": "花は咲く、修羅の如く",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg",
-        "followers": 3831
+        "followers": 3926
       },
       {
         "id": "430699",
         "title": "メダリスト",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3c/430699_hsj90.jpg",
-        "followers": 3318
+        "followers": 3406
       },
       {
         "id": "486347",
         "title": "薬屋のひとりごと 第2期",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg",
-        "followers": 3807
+        "followers": 3928
       },
       {
-        "id": "488177",
-        "title": "天久鷹央の推理カルテ",
-        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/f3/19/488177_9nFrY.jpg",
-        "followers": 2675
+        "id": "471793",
+        "title": "君のことが大大大大大好きな100人の彼女 第2期",
+        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+        "followers": 4237
       },
       {
         "id": "487630",
         "title": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/d8/5d/487630_5YZQ6.jpg",
-        "followers": 2960
+        "followers": 3049
       }
     ]
   },
@@ -50,46 +50,46 @@
     "type": "游戏",
     "items": [
       {
-        "id": "486165",
-        "title": "たねつみの歌",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/71/e5/486165_CtccO.jpg",
-        "followers": 876
-      },
-      {
         "id": "445334",
         "title": "MiSide",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/74/3f/445334_ooaC8.jpg",
-        "followers": 1012
+        "followers": 1024
+      },
+      {
+        "id": "486165",
+        "title": "たねつみの歌",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/71/e5/486165_CtccO.jpg",
+        "followers": 883
       },
       {
         "id": "501665",
         "title": "夢幻のティル・ナ・ノーグ",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/9f/501665_Ve8S8.jpg",
-        "followers": 389
+        "followers": 391
       },
       {
         "id": "512789",
         "title": "ホーリーアンデッド～非モテでぼっちの死霊術士が、聖女に転生してお友達を増やします～",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/a1/512789_S131b.jpg",
-        "followers": 426
+        "followers": 433
       },
       {
         "id": "409324",
         "title": "无限暖暖",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e5/fa/409324_ty5It.jpg",
-        "followers": 251
+        "followers": 252
       },
       {
         "id": "5418",
         "title": "魔法使いの夜",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/7d/3e/5418_VTRT4.jpg",
-        "followers": 9026
+        "followers": 9036
       },
       {
         "id": "46090",
         "title": "河原崎家の一族2",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/08/a3/46090_r6dEi.jpg",
-        "followers": 1442
+        "followers": 1446
       }
     ]
   },
@@ -100,13 +100,19 @@
         "id": "303186",
         "title": "【推しの子】",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/35/b2/303186_oE6Bo.jpg",
-        "followers": 4369
+        "followers": 4371
       },
       {
         "id": "305429",
         "title": "葬送のフリーレン",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a1/bd/305429_axzF3.jpg",
-        "followers": 5385
+        "followers": 5386
+      },
+      {
+        "id": "268279",
+        "title": "チェンソーマン",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/85/aa/268279_9rynK.jpg",
+        "followers": 8983
       },
       {
         "id": "497895",
@@ -115,28 +121,22 @@
         "followers": 285
       },
       {
-        "id": "268279",
-        "title": "チェンソーマン",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/85/aa/268279_9rynK.jpg",
-        "followers": 8979
-      },
-      {
         "id": "472321",
         "title": "今さらですが、幼なじみを好きになってしまいました",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/43/472321_X1H4d.jpg",
-        "followers": 746
+        "followers": 750
       },
       {
         "id": "377599",
         "title": "さよなら絵梨",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/7a/2d/377599_5cY50.jpg",
-        "followers": 6358
+        "followers": 6363
       },
       {
         "id": "322300",
         "title": "チ。―地球の運動について―",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/99/84/322300_HdhJd.jpg",
-        "followers": 3479
+        "followers": 3486
       }
     ]
   },
@@ -147,7 +147,7 @@
         "id": "520341",
         "title": "KiLLKiSS",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/49/17/520341_S3u8s.jpg",
-        "followers": 83
+        "followers": 88
       },
       {
         "id": "513548",
@@ -159,31 +159,31 @@
         "id": "36140",
         "title": "魔法使いの夜 オリジナルサウンドトラック",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/15/36140_119w7.jpg",
-        "followers": 1431
+        "followers": 1433
       },
       {
         "id": "8063",
         "title": "素晴らしき日々 サウンドトラックCD",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8d/1f/8063_DuIE6.jpg",
-        "followers": 1939
+        "followers": 1942
+      },
+      {
+        "id": "616",
+        "title": "CLANNAD Original SoundTrack",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/50/616_LZ4uz.jpg",
+        "followers": 3423
       },
       {
         "id": "515757",
         "title": "跡暖空",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7b/50/515757_2223H.jpg",
+        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/7b/50/515757_2223H.jpg",
         "followers": 47
       },
       {
         "id": "163164",
         "title": "サクラノ詩 サウンドトラックCD",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/8e/8d/163164_r2LV4.jpg",
-        "followers": 2464
-      },
-      {
-        "id": "12649",
-        "title": "ヨスガノソラ オリジナルサウンドトラック－New－",
-        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/b8/12750_E62bt.jpg",
-        "followers": 815
+        "followers": 2465
       }
     ]
   },
@@ -194,25 +194,25 @@
         "id": "387237",
         "title": "오징어 게임 2",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7b/d8/387237_9Ylyl.jpg",
-        "followers": 171
+        "followers": 174
       },
       {
         "id": "502002",
         "title": "仮面ライダーガヴ",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/be/26/502002_7jywq.jpg",
-        "followers": 599
+        "followers": 601
       },
       {
         "id": "276863",
         "title": "Cien años de soledad",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b9/b1/276863_i7e1y.jpg",
-        "followers": 143
+        "followers": 144
       },
       {
         "id": "462503",
         "title": "铠甲勇士星曜诀醒",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/24/2b/462503_v7gMD.jpg",
-        "followers": 80
+        "followers": 81
       },
       {
         "id": "472250",
@@ -224,13 +224,13 @@
         "id": "349534",
         "title": "오징어 게임",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/21/349534_8yYJ7.jpg",
-        "followers": 605
+        "followers": 607
       },
       {
         "id": "412118",
         "title": "王様戦隊キングオージャー",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/5a/aa/412118_S9S9z.jpg",
-        "followers": 838
+        "followers": 840
       }
     ]
   }
