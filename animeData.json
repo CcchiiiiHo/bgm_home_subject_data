@@ -3,46 +3,46 @@
     "type": "动画",
     "items": [
       {
-        "id": "477825",
-        "title": "ぬきたし THE ANIMATION",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/a3/477825_5H55M.jpg",
-        "followers": 27879
-      },
-      {
         "id": "524707",
         "title": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
-        "followers": 19483
+        "followers": 19607
+      },
+      {
+        "id": "477825",
+        "title": "ぬきたし THE ANIMATION",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/a3/477825_5H55M.jpg",
+        "followers": 27938
       },
       {
         "id": "398951",
         "title": "その着せ替え人形は恋をする Season 2",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/38/44/398951_973Z3.jpg",
-        "followers": 19940
+        "followers": 19999
       },
       {
         "id": "515880",
         "title": "ぐらんぶる Season 2",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
-        "followers": 21433
-      },
-      {
-        "id": "529431",
-        "title": "ダンダダン 第2期",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/2b/529431_a7joa.jpg",
-        "followers": 18009
+        "followers": 21489
       },
       {
         "id": "513345",
         "title": "薫る花は凛と咲く",
-        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/b8/0d/513345_jv4wM.jpg",
-        "followers": 12986
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0d/513345_jv4wM.jpg",
+        "followers": 13069
+      },
+      {
+        "id": "529431",
+        "title": "ダンダダン 第2期",
+        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/4a/2b/529431_a7joa.jpg",
+        "followers": 18068
       },
       {
         "id": "512190",
         "title": "瑠璃の宝石",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/27/d7/512190_3FtCT.jpg",
-        "followers": 13940
+        "followers": 14066
       }
     ]
   },
@@ -53,43 +53,43 @@
         "id": "274582",
         "title": "Hollow Knight: Silksong",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/38/4c/274582_b5HO6.jpg",
-        "followers": 1411
+        "followers": 1425
       },
       {
         "id": "561526",
         "title": "ライムライト・レモネードジャム",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a2/88/561526_FGtAF.jpg",
-        "followers": 1380
+        "followers": 1436
       },
       {
         "id": "509947",
         "title": "空の軌跡 the 1st",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8f/03/509947_yEeWw.jpg",
-        "followers": 1030
+        "followers": 1059
       },
       {
         "id": "518278",
         "title": "アマカノ3",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dc/88/518278_P2e8e.jpg",
-        "followers": 939
+        "followers": 970
       },
       {
         "id": "488392",
         "title": "魔法少女ノ魔女裁判",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/df/0f/488392_h78qM.jpg",
-        "followers": 2382
+        "followers": 2418
       },
       {
         "id": "566420",
         "title": "何度目かのはじめまして",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/40/5d/566420_13OoG.jpg",
-        "followers": 692
+        "followers": 754
       },
       {
         "id": "558742",
         "title": "終天教団",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/55/96/558742_5dz75.jpg",
-        "followers": 403
+        "followers": 404
       }
     ]
   },
@@ -100,25 +100,25 @@
         "id": "268279",
         "title": "チェンソーマン",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/85/aa/268279_9rynK.jpg",
-        "followers": 10281
+        "followers": 10287
       },
       {
         "id": "377599",
         "title": "さよなら絵梨",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7a/2d/377599_5cY50.jpg",
-        "followers": 8100
-      },
-      {
-        "id": "343241",
-        "title": "負けヒロインが多すぎる！",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1c/ba/343241_TWFSN.jpg",
-        "followers": 3823
+        "followers": 8105
       },
       {
         "id": "305429",
         "title": "葬送のフリーレン",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a1/bd/305429_axzF3.jpg",
-        "followers": 6288
+        "followers": 6289
+      },
+      {
+        "id": "343241",
+        "title": "負けヒロインが多すぎる！",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1c/ba/343241_TWFSN.jpg",
+        "followers": 3824
       },
       {
         "id": "118165",
@@ -130,13 +130,13 @@
         "id": "179872",
         "title": "ファイアパンチ",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/8f/37/179872_Nw6bB.jpg",
-        "followers": 7742
+        "followers": 7747
       },
       {
         "id": "370560",
         "title": "週に一度クラスメイトを買う話",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/0d/e8/370560_sgCDF.jpg",
-        "followers": 3373
+        "followers": 3375
       }
     ]
   },
@@ -147,43 +147,43 @@
         "id": "575366",
         "title": "IRIS OUT / JANE DOE",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/25/ef/575366_5g1gl.jpg",
-        "followers": 70
+        "followers": 75
       },
       {
         "id": "36140",
         "title": "魔法使いの夜 オリジナルサウンドトラック",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/15/36140_119w7.jpg",
-        "followers": 1952
-      },
-      {
-        "id": "616",
-        "title": "CLANNAD Original SoundTrack",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/50/616_LZ4uz.jpg",
-        "followers": 4019
+        "followers": 1953
       },
       {
         "id": "321924",
         "title": "One Last Kiss",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/bd/321924_XokB6.jpg",
-        "followers": 2203
+        "followers": 2206
+      },
+      {
+        "id": "616",
+        "title": "CLANNAD Original SoundTrack",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/50/616_LZ4uz.jpg",
+        "followers": 4020
       },
       {
         "id": "561848",
         "title": "光のすみか / BROKEN GLASS",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/5e/561848_y1omh.jpg",
-        "followers": 107
+        "followers": 110
       },
       {
         "id": "163164",
         "title": "サクラノ詩 サウンドトラックCD",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/8e/8d/163164_r2LV4.jpg",
-        "followers": 2778
+        "followers": 2781
       },
       {
         "id": "254889",
         "title": "Summer Pockets Original SoundTrack",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/cc/fe/254889_Dv4E7.jpg",
-        "followers": 1515
+        "followers": 1516
       }
     ]
   },
@@ -194,7 +194,7 @@
         "id": "545304",
         "title": "仮面ライダーゼッツ",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/1e/545304_MC1k2.jpg",
-        "followers": 537
+        "followers": 541
       },
       {
         "id": "460612",
@@ -203,34 +203,34 @@
         "followers": 47
       },
       {
+        "id": "369188",
+        "title": "今際の国のアリス シーズン3",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f1/36/369188_oaLL5.jpg",
+        "followers": 74
+      },
+      {
         "id": "580305",
         "title": "仮面ライダーゼッツ SERIES OF SISTER'S SUBSTORY エージェント美浪",
         "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ed/f9/580305_5uRU4.jpg",
         "followers": 23
       },
       {
-        "id": "369188",
-        "title": "今際の国のアリス シーズン3",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f1/36/369188_oaLL5.jpg",
-        "followers": 73
-      },
-      {
-        "id": "502002",
-        "title": "仮面ライダーガヴ",
-        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/be/26/502002_7jywq.jpg",
-        "followers": 1065
-      },
-      {
         "id": "414561",
         "title": "Wednesday Season 2",
-        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/41/1e/414561_KmvwV.jpg",
+        "imageUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/1e/414561_KmvwV.jpg",
         "followers": 68
       },
       {
         "id": "546258",
         "title": "ウルトラマンオメガ",
         "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/cd/b7/546258_0WZ40.jpg",
-        "followers": 366
+        "followers": 365
+      },
+      {
+        "id": "502002",
+        "title": "仮面ライダーガヴ",
+        "imageUrl": "https://lain.bgm.tv/r/100x100/pic/cover/l/be/26/502002_7jywq.jpg",
+        "followers": 1066
       }
     ]
   }
